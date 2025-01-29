@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial,sans-serif;
+    background-color: #061a2b;
+     color: #00ffcc;
+     text-align: center;
+}
+h1{
+    font-size: 4rem;
+    margin: 20px 0;
+    font-family: cursive;
+    color: #4ef037;
+}
+p{
+    margin-top: 20px;
+    font-size: 1.5rem;
+    font-family:  Geneva;
+    color: #aaffff;
+}
+img{
+    width: 150px;
+    height: auto;
+    margin: 20px;
+     border: 5px solid #4ef037;
+     border-radius: 15px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
